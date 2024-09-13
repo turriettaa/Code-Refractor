@@ -38,3 +38,4 @@ This refactoring was completed by Alex Turrietta with the assistance of Amazon Q
 
 ## Deployed link
 https://turriettaa.github.io/Horiseon-Website-Refactor/
+<img src="assets/images/01-html-css-git-homework-demo.png" alt="Screenshot of site">
