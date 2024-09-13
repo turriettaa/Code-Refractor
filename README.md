@@ -36,5 +36,5 @@ This project involved refactoring the Horiseon website to improve its accessibil
 ## Credits
 This refactoring was completed by Alex Turrietta with the assistance of Amazon Q.
 
-## License
-[Include any license information here, if applicable]
+## Deployed link
+https://turriettaa.github.io/Horiseon-Website-Refactor/
