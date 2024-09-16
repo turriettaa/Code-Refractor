@@ -33,8 +33,13 @@ This project involved refactoring the Horiseon website to improve its accessibil
 - Implement further SEO enhancements such as meta descriptions and keywords.
 - Explore the possibility of adding schema markup for rich snippets in search results.
 
-## Credits
-This refactoring was completed by Alex Turrietta with the assistance of Amazon Q.
+## Acknowledgements
+
+This project was completed as part of the [UC Berkeley Coding Bootcamp] curriculum.
+
+Starter code was provided by the bootcamp, refactored by [Alejandro Turrietta].
+
+Assisted by Amazon Q
 
 ## Deployed link
 https://turriettaa.github.io/Horiseon-Website-Refactor/
